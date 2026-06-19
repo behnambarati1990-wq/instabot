@@ -9,7 +9,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, CommandHandler, filters, ContextTypes
 
 # ==================== تنظیمات ====================
-TOKEN = "8637204081:AAHHdPiggTyOEFkIz9r0lkpT4-RZGzAJWTE"
+TOKEN = os.environ.get("TOKEN")
 MAX_PER_USER = 5
 TIME_WINDOW = 3600
 # =================================================
