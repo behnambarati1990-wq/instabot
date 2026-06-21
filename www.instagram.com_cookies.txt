@@ -3,7 +3,13 @@
 # This is a generated file! Do not edit.
 
 .instagram.com	TRUE	/	TRUE	1813408631	ig_did	BE13F9B0-4016-4362-8F2F-E1B239E6C92C
-.instagram.com	TRUE	/	TRUE	1816432631	csrftoken	-L2QBNZy40jJ9E75L4bje0
 .instagram.com	TRUE	/	TRUE	1816432631	datr	9Tc1asRAshFitH8SL0fHE6cA
 .instagram.com	TRUE	/	TRUE	1816432631	mid	ajU39QALAAEhSpd9x3RCKPL8i17J
-.instagram.com	TRUE	/	TRUE	1782477610	wd	1366x641
+.instagram.com	TRUE	/	TRUE	1782643769	wd	1366x641
+.instagram.com	TRUE	/	TRUE	1816597751	ps_l	1
+.instagram.com	TRUE	/	TRUE	1816597751	ps_n	1
+.instagram.com	TRUE	/	TRUE	1813574655	ig_nrcb	1
+.instagram.com	TRUE	/	TRUE	1816598968	csrftoken	9FBjmgFmzahVVEQydxPai1FlgyEd3CZQ
+.instagram.com	TRUE	/	TRUE	1789814968	ds_user_id	23716114480
+.instagram.com	TRUE	/	TRUE	1813574963	sessionid	23716114480%3AQdyC7MTx2rBFUO%3A8%3AAYiphwhwqpYUZoPAZapPTY4mJUBHZysKNLxoqTir_Q
+.instagram.com	TRUE	/	TRUE	0	rur	"CLN\05423716114480\0541813574965:01ff568da9db7710379fd29872b5f1c65b701c8cc5006ccaf274f7b119387d09bfc6c6e4"
