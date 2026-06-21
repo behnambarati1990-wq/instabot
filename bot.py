@@ -79,7 +79,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
             "format": "mp4/best[ext=mp4]/best",
             "quiet": True,
             "no_warnings": True,
-            "cookiefile": "instagram.com_cookies.txt",
+            "cookiefile": "www.instagram.com_cookies.txt",
         }
 
         ydl_opts["format"] = "mp4/best[ext=mp4]/best"
